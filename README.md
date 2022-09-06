@@ -23,3 +23,4 @@ Bayes vs Frequentist statistics, Prior, Likelihood, Posterior
 ### Multidimensional data:
 Spatial+Temporal data ( data) 
 ### Machine Learning methods: Clustering, Decision trees and Tree ensemble methods
+

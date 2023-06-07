@@ -7,8 +7,6 @@
 # Assignment 1: Due on Wednesday 7th at 11:59PM
 - make an account on GitHub if you do not have one yet
 
-<img src="../imgs/Screen Shot 2022-08-30 at 2.45.43 PM.png" width=500>
-
 - Create a repository called FDSfE\_\<FirstinitialLastname\>;
 my first initial is F, my last name is Qamar, so mine is FDSfE_FQamar
 

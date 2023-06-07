@@ -8,7 +8,6 @@
 - make an account on GitHub if you do not have one yet. Here are some screenshots that describe the process (note that I have an account with username fedhere, as you know, in the screenshots below I am pretending to make a new one as if I did not have one)
 
 <img src="../imgs/Screen Shot 2022-08-30 at 2.45.43 PM.png" width=500>
-<img src="../imgs/Screen Shot 2022-08-30 at 2.47.09 PM.png" width=500>
 
 
 - Create a repository called FDSfE\_\<FirstinitialLastname\>;
